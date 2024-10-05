@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RustyBraze
+- 👋 Hi, I’m Rusty Braze
 - 👀 I’m interested in things that keep my attention
 - 🌱 I’m currently learning how to speak human language
 - 💞️ I’m looking to collaborate on secrets of the universe
